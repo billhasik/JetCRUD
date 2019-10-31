@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Create Jet Page";
+}
+
+<div ng-app="JetApp" ng-controller="JetController">
+    <div class="jumbotron text-center">
+        <h1>Please use the form below to create your new jet.</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 text-center">
+            <h1 class="text-primary">Model Name</h1>
+            <p>
+                Please input the new Jet's Model Name:
+                <br />(No more than 25 characters long)
+            </p>
+            <input type="text" placeholder="Model Name" ng-model="jet.modelName" required/>
+        </div>
+        <div class="col-md-6 text-center">
+            <h1 class="text-primary">Serial Number</h1>
+            <p>
+                Please input the new Jet's Serial Number:
+                <br />(Must be exactly 3 numbers)
+            </p>
+            <span ng-show="isError">{{printError}}</span>
+            <input type="number" placeholder="000" ng-model="jet.serialNumber"/>
+        </div>
+    </div>
+    <br />
+    <br />
+    <div class="row text-center">
+        <button type="button" class="btn btn-success" ng-click="submitJet(jet)">Submit Jet</button>
+    </div>
+    <br />
+    <h2>{{JetProof}}</h2>
+</div>  

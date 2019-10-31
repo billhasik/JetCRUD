@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Jets]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [ModelName] NVARCHAR(25) NOT NULL, 
+    [CreateTime] DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP, 
+    [SerialNumber] INT NOT NULL
+)

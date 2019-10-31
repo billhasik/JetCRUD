@@ -1,0 +1,8 @@
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\billh\source\repos\BH_CRUDJet\DataLibrary\obj\Debug\DataLibrary.pdb

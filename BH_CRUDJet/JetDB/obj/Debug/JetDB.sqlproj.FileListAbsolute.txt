@@ -1,0 +1,9 @@
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\bin\Debug\JetDB.dacpac
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\bin\Debug\JetDB.dll
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\bin\Debug\JetDB.pdb
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\obj\Debug\JetDB.dll
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\obj\Debug\JetDB.pdb
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\obj\Debug\Model.xml
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\obj\Debug\refactor.xml
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\obj\Debug\postdeploy.sql
+C:\Users\billh\source\repos\BH_CRUDJet\JetDB\obj\Debug\predeploy.sql
